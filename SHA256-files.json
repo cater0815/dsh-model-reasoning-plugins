@@ -1,0 +1,17 @@
+{
+  "model-slider/package.json": "ded1ed31bda076269b8116c986d76dc981e246402232b18df91a187b8e228998",
+  "model-slider/index.js": "c043490cf499313b96b48518e56f3abbe638bd4efc2ea46666ae96ced903c1c6",
+  "model-slider/client.js": "67f53222c02928a12dadcf5601c72ee5a41410d97007a0146a90761e7c9530b3",
+  "model-slider/README.md": "fb197773c61e539c09f1caa065633ec0223e88c972ec640e78d45abb65c9ebe6",
+  "model-slider/model-slider.test.mjs": "e2c18083583bfda2520e5eb527b29fdf23a27ded4ae99d258ca90de0a805b3a4",
+  "reasoning-slider/package.json": "5bd20f921f257c93e181aafc810af949b47ed919b7b18307cc5104f1662c1fb8",
+  "reasoning-slider/index.js": "17cc11b37c0513c69e6698006669acc645e8c30f8c9e23d0e15d5be1f3fd7ef8",
+  "reasoning-slider/client.js": "26ad8617a5ccd9a1fe2af2c185481780ab48f0f732e83f6d6c5e9642855625b2",
+  "reasoning-slider/README.md": "ee28cfbcba1b6812bb4337270adb423f9b83da32fed57e1c60afc874f9d3bb41",
+  "reasoning-slider/slider.test.mjs": "ac266860bb039c9ad8e9eb13df6222007962838fa87d8d852a97111e8dcf2439",
+  "model-selection-fix/package.json": "5a1ce747d3268b48111e7443ce95f7cad6e17b9cd142a14a0f6aa8660acfcf5a",
+  "model-selection-fix/index.js": "52b8bf5a32c70c44b3e895170fadcea6b21b23efef22dabb41c447472028520e",
+  "model-selection-fix/client.js": "a04cc42df5594461b55a5ac7a1f01cd8a88324d012f9a2d6738aa7f5e788b8b4",
+  "model-selection-fix/cordis.patch.yml": "6131e17f8ec0d3748dadc36dddeb920f254c438f9f0ce635ed739898a42a840d",
+  "model-selection-fix/README.md": "5c9230e618beeffe8c586348d898554931de23ddbd572777f871950cdaedc3d2"
+}
